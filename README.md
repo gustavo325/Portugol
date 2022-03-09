@@ -2,13 +2,13 @@
 
 **OBS: Caso você seja um iniciante assim como eu, segue o descritivo abaixo:**  
 
-**Arquivo: Concatenação de Vetores **
+**Arquivo: Concatenação de Vetores**
 
 Refere-se a uma Função que contém duas listas, uma de nomes e a outra de números. 
 
 A função imprime ordenadamente os nomes e alturas alinhados lado a lado. 
 
-**Arquivo: Exercício Matriz e Matriz (com estrutura de repetição) ** 
+**Arquivo: Exercício Matriz e Matriz (com estrutura de repetição)** 
 
 São Exemplos da estrutura Faça... Enquanto... Utilizado para imprimir um conjunto de Matrizes.
 
