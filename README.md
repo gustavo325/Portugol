@@ -28,4 +28,4 @@ A função exibe um menu de acesso a opções de strings e solicita que seja esc
 
 A função irá solicitar o valor a ser calculado e logo em seguida até que número será multiplicado. 
 
-Caso tenha alguma melhoria a ser feita, sinta-se a vontade para realizar.   
+Caso tenha alguma melhoria a ser feita, sinta-se a vontade para realizar.
